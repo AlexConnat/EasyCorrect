@@ -1,0 +1,5 @@
+1. Generate questions using course material
+2. Randomise each quizz
+3. Take a picture of the printed quizz
+4. Analysis of the picture
+5. Grade the test
