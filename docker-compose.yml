@@ -1,6 +1,6 @@
-web:
-    image : library/nginx
+php:
+    image: php:7.0-apache
     ports:
         - "80:80"
     volumes:
-        - ./server:/usr/share/nginx/html
+        - ./server:/var/www/html
